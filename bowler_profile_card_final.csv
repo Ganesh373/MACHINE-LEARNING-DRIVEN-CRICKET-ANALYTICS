@@ -1,0 +1,250 @@
+bowler,bowler_role,bowler_clutch_index,risk_reward_profile,reliability_label,best_phase,strength_tags,weakness_tags,death_bowler_score,set_batter_control_score,momentum_breaker_score
+R Ashwin,Control Bowler,0.7167202143624944,Low Risk Support,High Reliability,Powerplay,"Momentum Breaker, Overall Clutch",No Major Weakness Tag,0.49594208140162166,0.6197699496242963,0.6707283163634132
+SP Narine,Control Bowler,0.6933501263548626,High Impact Control,High Reliability,Middle,"Death Specialist, Momentum Breaker, High Impact Control",No Major Weakness Tag,0.7147468020951412,0.6041149884085364,0.6621358513597422
+SL Malinga,Control Bowler,0.6555042025523911,High Impact Control,High Reliability,Powerplay,"Death Specialist, High Impact Control",No Major Weakness Tag,0.7463576339001908,0.5261302643886824,0.6200732750777668
+Harbhajan Singh,Control Bowler,0.6402027827378616,High Impact Control,High Reliability,Powerplay,"Death Specialist, High Impact Control",No Major Weakness Tag,0.6663124790190811,0.6063304345608593,0.6349255912467477
+DW Steyn,Control Bowler,0.6379842549232684,High Impact Control,High Reliability,Powerplay,High Impact Control,No Major Weakness Tag,0.6344759910971671,0.46213077081391835,0.5530420351122783
+Sohail Tanvir,Strike Bowler,0.6337915780146866,High Impact Control,Medium Reliability,Middle,High Impact Control,"Weak at Death, Poor Momentum Control",0.0,0.34909856354310775,0.0
+YS Chahal,Control Bowler,0.6324721490739235,Low Risk Support,High Reliability,Powerplay,No Strong Specialist Tag,No Major Weakness Tag,0.5285031716525908,0.6122705411232332,0.6358100881362321
+B Kumar,Control Bowler,0.6283211422144386,High Impact Control,High Reliability,Powerplay,High Impact Control,No Major Weakness Tag,0.6108184306870287,0.4414069190593733,0.5895068159150265
+Rashid Khan,Control Bowler,0.6019565023039484,High Impact Control,High Reliability,Middle,"Momentum Breaker, High Impact Control",No Major Weakness Tag,0.5608830822022479,0.5679055224215308,0.657844106064873
+A Mishra,Control Bowler,0.5936456739167946,Low Risk Support,High Reliability,Powerplay,No Strong Specialist Tag,No Major Weakness Tag,0.4539240218245376,0.5853423980396345,0.6154452274660692
+JJ Bumrah,Control Bowler,0.591924420326739,Low Risk Support,High Reliability,Middle,"Death Specialist, Momentum Breaker",No Major Weakness Tag,0.7192634628473098,0.5348979990173232,0.6896062966476366
+AR Patel,Control Bowler,0.5697687601465068,Low Risk Support,High Reliability,Middle,No Strong Specialist Tag,No Major Weakness Tag,0.5897696088325198,0.523321444959412,0.5523609393150477
+M Muralitharan,Control Bowler,0.5670189307347596,High Impact Control,High Reliability,Powerplay,High Impact Control,No Major Weakness Tag,0.6091904828360281,0.5335384586322303,0.5864859177997045
+CR Woakes,Strike Bowler,0.5667542084132818,High Impact Control,Medium Reliability,Powerplay,"Set Batter Controller, High Impact Control",Weak at Death,0.0,0.7783933991115056,0.5362927956052155
+Akash Madhwal,Death Specialist,0.5618061916444016,High Impact Control,Medium Reliability,Powerplay,High Impact Control,Weak at Death,0.0,0.329457172656629,0.4515975300296426
+RA Jadeja,Control Bowler,0.5577690472579293,Low Risk Support,High Reliability,Powerplay,No Strong Specialist Tag,No Major Weakness Tag,0.455213975754696,0.5622730177321418,0.6025370688563227
+P Kumar,Control Bowler,0.5543849255256236,High Impact Control,High Reliability,Powerplay,High Impact Control,No Major Weakness Tag,0.4968492555223855,0.33703525046383664,0.5297305168986646
+Z Khan,Control Bowler,0.5416177832607553,High Impact Control,High Reliability,Powerplay,High Impact Control,No Major Weakness Tag,0.5255764307427517,0.4228864643035613,0.4967686311486526
+DJ Bravo,Control Bowler,0.5409569340242258,Low Risk Support,High Reliability,Powerplay,Death Specialist,No Major Weakness Tag,0.6727582915982728,0.535257816694853,0.6475264023317743
+RJ Harris,Control Bowler,0.5394374800645184,High Impact Control,High Reliability,Powerplay,High Impact Control,No Major Weakness Tag,0.5069594742164092,0.45494854218975495,0.4575568239627092
+PP Ojha,Control Bowler,0.5367404858992928,Low Risk Support,High Reliability,Powerplay,No Strong Specialist Tag,No Major Weakness Tag,0.4182337819761631,0.5013791096213903,0.6089190724103415
+PP Chawla,Control Bowler,0.536333489274131,Low Risk Support,High Reliability,Middle,No Strong Specialist Tag,No Major Weakness Tag,0.39749401530952905,0.5590815014420578,0.5920192936582032
+J Botha,Strike Bowler,0.5356953629387919,High Impact Control,High Reliability,Middle,High Impact Control,Weak at Death,0.0,0.5363222107977509,0.4289841372520847
+DE Bollinger,Control Bowler,0.5345527502518311,High Impact Control,High Reliability,Middle,"Death Specialist, High Impact Control",No Major Weakness Tag,0.6762342236172539,0.5766593324487799,0.4680858561972821
+SK Warne,Strike Bowler,0.5335714350839699,Low Risk Support,High Reliability,Powerplay,No Strong Specialist Tag,Weak at Death,0.0,0.497187539953439,0.5929709293354443
+I Sharma,Control Bowler,0.5322548880157044,High Impact Control,High Reliability,Powerplay,High Impact Control,No Major Weakness Tag,0.44218045190763183,0.42260324934746823,0.494047016940076
+K Rabada,Control Bowler,0.5309638960267764,High Impact Control,High Reliability,Powerplay,High Impact Control,No Major Weakness Tag,0.6096389922067544,0.5143260057914941,0.481513836187867
+RE van der Merwe,Strike Bowler,0.5246033480954434,High Impact Control,High Reliability,Middle,High Impact Control,Weak at Death,0.0,0.5488400353552451,0.310295003846483
+WPUJC Vaas,Strike Bowler,0.5242394267874947,High Impact Control,High Reliability,Powerplay,High Impact Control,Weak at Death,0.0,0.3713063250342934,0.47071812737668794
+A Nehra,Control Bowler,0.5212298616863669,High Impact Control,High Reliability,Powerplay,High Impact Control,No Major Weakness Tag,0.5326788701485602,0.4139537939555795,0.5807874441801202
+A Chandila,Strike Bowler,0.5197187905568876,High Impact Control,Medium Reliability,Powerplay,High Impact Control,"Weak at Death, Poor Momentum Control",0.0,0.47793177250076563,0.0
+JH Kallis,Control Bowler,0.5130102496452499,Low Risk Support,High Reliability,Powerplay,No Strong Specialist Tag,No Major Weakness Tag,0.47766472862498194,0.5206022587239774,0.4573530688396274
+MG Johnson,Control Bowler,0.511078437126816,High Impact Control,High Reliability,Powerplay,High Impact Control,No Major Weakness Tag,0.5733483286733811,0.44862457668851424,0.5278203284621196
+MM Patel,Control Bowler,0.5096859420410352,High Impact Control,High Reliability,Powerplay,High Impact Control,No Major Weakness Tag,0.4758563904073102,0.4695656875679134,0.4492983625010762
+IK Pathan,Control Bowler,0.5036555743863353,High Impact Control,High Reliability,Powerplay,High Impact Control,No Major Weakness Tag,0.525258649039512,0.37304018053200283,0.46838353584285286
+A Kumble,Strike Bowler,0.5021473800757511,High Impact Control,High Reliability,Powerplay,High Impact Control,Weak at Death,0.0,0.48411863200606065,0.5469316035794087
+GD McGrath,Strike Bowler,0.5013618186202227,High Impact Control,Medium Reliability,Middle,"Momentum Breaker, High Impact Control",Weak at Death,0.0,0.6404799639367489,0.6896491972934136
+Sandeep Sharma,Control Bowler,0.5012828690597338,Low Risk Support,High Reliability,Powerplay,No Strong Specialist Tag,No Major Weakness Tag,0.3984467169049867,0.3672512841459648,0.5224835432657885
+M Pathirana,Control Bowler,0.5000082040484439,Low Risk Support,High Reliability,Powerplay,No Strong Specialist Tag,No Major Weakness Tag,0.5859721532378606,0.5304183158039754,0.6187488746549792
+SK Trivedi,Control Bowler,0.49960717709907443,Low Risk Support,High Reliability,Powerplay,No Strong Specialist Tag,No Major Weakness Tag,0.5026623347236988,0.47570324182452417,0.4780330013514869
+UT Yadav,Control Bowler,0.49820711408078033,High Impact Control,High Reliability,Powerplay,High Impact Control,No Major Weakness Tag,0.558765705814716,0.4844564584092159,0.5308667798302552
+MJ McClenaghan,Control Bowler,0.4953850376318299,High Impact Control,High Reliability,Middle,High Impact Control,No Major Weakness Tag,0.49788751986038,0.43088229157493824,0.5361269092273376
+TA Boult,Control Bowler,0.49296317546935653,Low Risk Support,High Reliability,Powerplay,No Strong Specialist Tag,No Major Weakness Tag,0.4076225126662914,0.3749297212164656,0.4529828051926922
+M Morkel,Control Bowler,0.491227917660976,High Impact Control,High Reliability,Middle,High Impact Control,No Major Weakness Tag,0.3840103535635334,0.4700961328289142,0.5893456316024921
+R Rampaul,Strike Bowler,0.490750525828453,High Impact Control,High Reliability,Powerplay,High Impact Control,Weak at Death,0.0,0.5391074997375219,0.5224415976599491
+Ravi Bishnoi,Strike Bowler,0.48960395326859274,Low Risk Support,High Reliability,Powerplay,No Strong Specialist Tag,Weak at Death,0.0,0.4994174486578482,0.49424208773051237
+MM Sharma,Control Bowler,0.48956051480664264,Moderate Profile,High Reliability,Powerplay,No Strong Specialist Tag,No Major Weakness Tag,0.5574685534367722,0.44068664130945673,0.5528089661688638
+HV Patel,Control Bowler,0.48651917329936245,Low Risk Support,High Reliability,Middle,No Strong Specialist Tag,No Major Weakness Tag,0.5900658873350612,0.5093040807793464,0.5769607800507832
+IC Pandey,Strike Bowler,0.4856934971529221,High Impact Control,High Reliability,Middle,High Impact Control,Weak at Death,0.0,0.4089018254513565,0.5081718269109617
+Kuldeep Yadav,Strike Bowler,0.48480940850530174,Low Risk Support,High Reliability,Powerplay,No Strong Specialist Tag,Weak at Death,0.0,0.43493120962739756,0.46692638684111915
+RD Chahar,Strike Bowler,0.4829413368551699,Low Risk Support,High Reliability,Powerplay,No Strong Specialist Tag,Weak at Death,0.0,0.4393037292267552,0.49962650596120184
+SK Raina,Control Bowler,0.48107787392376455,Low Risk Support,High Reliability,Middle,No Strong Specialist Tag,No Major Weakness Tag,0.4930096960483987,0.46715327114219135,0.3941031128888348
+KK Cooper,Control Bowler,0.4808045473577572,Low Risk Support,High Reliability,Powerplay,No Strong Specialist Tag,No Major Weakness Tag,0.609362048134815,0.4543162441727235,0.4196061210476048
+AB Dinda,Control Bowler,0.48061227300406545,High Impact Control,High Reliability,Middle,High Impact Control,No Major Weakness Tag,0.3758142834059506,0.4382441118713721,0.46171999048334145
+RP Singh,Control Bowler,0.4804324791950376,Low Risk Support,High Reliability,Powerplay,No Strong Specialist Tag,No Major Weakness Tag,0.4671269052187348,0.3538596135864609,0.4798224314198705
+MM Ali,Strike Bowler,0.4796526319035011,High Impact Control,High Reliability,Powerplay,High Impact Control,Weak at Death,0.0,0.5277914888247095,0.4066301005493147
+RS Bopara,Strike Bowler,0.4786992962094711,High Impact Control,Medium Reliability,Powerplay,High Impact Control,Weak at Death,0.0,0.6246987537639245,0.5438914071633741
+Simarjeet Singh,Strike Bowler,0.4786076368324148,High Impact Control,Medium Reliability,Middle,High Impact Control,"Weak at Death, Weak vs Set Batters",0.0,0.0,0.6305387967265492
+J Yadav,Strike Bowler,0.4778018098282547,High Impact Control,Medium Reliability,Middle,High Impact Control,Weak at Death,0.0,0.48547400430475507,0.39702802099509826
+Ankit Sharma,Strike Bowler,0.4771112109007648,High Impact Control,Medium Reliability,Powerplay,High Impact Control,Weak at Death,0.0,0.47862578584467613,0.32336214586574213
+A Nortje,Control Bowler,0.4754584839711019,High Impact Control,High Reliability,Powerplay,High Impact Control,No Major Weakness Tag,0.6001280621231678,0.3894625889620209,0.5011701094412724
+R Vinay Kumar,Control Bowler,0.47490648805067215,Low Risk Support,High Reliability,Powerplay,No Strong Specialist Tag,No Major Weakness Tag,0.4140020032417955,0.49245855234030456,0.5717987733620349
+SR Watson,Control Bowler,0.47390391245240193,Low Risk Support,High Reliability,Powerplay,No Strong Specialist Tag,No Major Weakness Tag,0.45638319264816946,0.5057878065977021,0.5003677296990644
+CV Varun,Control Bowler,0.47288101099536056,Low Risk Support,High Reliability,Powerplay,No Strong Specialist Tag,No Major Weakness Tag,0.44846920513209393,0.4982982468175464,0.5691099196373581
+PJ Cummins,Control Bowler,0.4676371267135173,High Impact Control,High Reliability,Middle,High Impact Control,No Major Weakness Tag,0.4313669635445872,0.467745679339527,0.5977134371542326
+KH Pandya,Control Bowler,0.4675082584739295,Low Risk Support,High Reliability,Middle,No Strong Specialist Tag,No Major Weakness Tag,0.5237007013033806,0.44571001250167175,0.5140013669596353
+JA Morkel,Control Bowler,0.46611406970218894,Low Risk Support,High Reliability,Middle,No Strong Specialist Tag,No Major Weakness Tag,0.506405034416402,0.42013648115321556,0.49060027597456013
+Mohammed Shami,Control Bowler,0.4633749104296733,Moderate Profile,High Reliability,Powerplay,No Strong Specialist Tag,No Major Weakness Tag,0.3875212056582305,0.39387538834948277,0.5511976341426479
+JR Hazlewood,Control Bowler,0.46252446818964904,High Impact Control,High Reliability,Middle,High Impact Control,No Major Weakness Tag,0.5562803811026557,0.35904127905857486,0.4785642989875113
+Mohammed Siraj,Control Bowler,0.46121069528781505,Moderate Profile,High Reliability,Middle,No Strong Specialist Tag,No Major Weakness Tag,0.5772049143834708,0.4291982068413527,0.5651218650393588
+M Kartik,Strike Bowler,0.45777640993787977,Low Risk Support,High Reliability,Powerplay,No Strong Specialist Tag,Weak at Death,0.0,0.45748203101467355,0.41659889174359305
+DS Kulkarni,Control Bowler,0.4570891926036128,High Impact Control,High Reliability,Powerplay,High Impact Control,No Major Weakness Tag,0.39718785940237183,0.41556032428671436,0.5190400504659565
+SW Tait,Control Bowler,0.4555295522492719,Low Risk Support,High Reliability,Powerplay,No Strong Specialist Tag,No Major Weakness Tag,0.555944200477851,0.35575744984604324,0.5082266591181481
+BJ Hodge,Strike Bowler,0.45413458943429036,High Impact Control,Medium Reliability,Powerplay,High Impact Control,Weak at Death,0.0,0.5583391891777659,0.4794692372741946
+BW Hilfenhaus,Strike Bowler,0.4511790496495056,High Impact Control,High Reliability,Powerplay,High Impact Control,Weak at Death,0.0,0.3774285064040166,0.5472210633631768
+WD Parnell,Control Bowler,0.4510099823434074,High Impact Control,High Reliability,Powerplay,High Impact Control,No Major Weakness Tag,0.5618096662593665,0.45274032098694805,0.5098504048813735
+B Lee,Control Bowler,0.4502827024375752,High Impact Control,High Reliability,Powerplay,High Impact Control,No Major Weakness Tag,0.3914487028249729,0.4685359513463543,0.6014690031122696
+Mohsin Khan,Strike Bowler,0.44980421747321314,High Impact Control,High Reliability,Middle,High Impact Control,Weak at Death,0.0,0.41727661468235827,0.44029453842816035
+Azhar Mahmood,Control Bowler,0.4481369899008062,High Impact Control,High Reliability,Middle,High Impact Control,No Major Weakness Tag,0.36456967543782237,0.4743590697820171,0.530490642145621
+Arshdeep Singh,Control Bowler,0.44733000411357676,Low Risk Support,High Reliability,Middle,No Strong Specialist Tag,No Major Weakness Tag,0.5462231630066968,0.5322746271056223,0.5052258407422355
+Navdeep Saini,Control Bowler,0.44682467737348913,High Impact Control,High Reliability,Death,"Death Specialist, High Impact Control",No Major Weakness Tag,0.6808061259558862,0.4424972048598412,0.508518377267959
+DL Chahar,Strike Bowler,0.4462364627704932,High Impact Control,High Reliability,Middle,High Impact Control,Weak at Death,0.0,0.35080733550245574,0.5465033840495038
+Imran Tahir,Control Bowler,0.4450768195236548,Low Risk Support,High Reliability,Death,Death Specialist,No Major Weakness Tag,0.6597948546693417,0.42386952615072165,0.5448641803279695
+MF Maharoof,Strike Bowler,0.44387097471796294,High Impact Control,Medium Reliability,Powerplay,High Impact Control,Weak at Death,0.0,0.4107579026905722,0.39159549274758215
+M Ashwin,Strike Bowler,0.4398278075827669,Low Risk Support,High Reliability,Death,No Strong Specialist Tag,Weak at Death,0.0,0.46831772062557153,0.4337340308564217
+AC Thomas,Strike Bowler,0.439332799885578,Low Risk Support,Medium Reliability,Powerplay,No Strong Specialist Tag,Weak at Death,0.0,0.327635620087265,0.5082740429298693
+AB McDonald,Death Specialist,0.43894258717325335,Low Risk Support,Medium Reliability,Death,No Strong Specialist Tag,Weak at Death,0.0,0.4206434495143636,0.4815133950148942
+S Gopal,Strike Bowler,0.43572487021922496,Low Risk Support,High Reliability,Powerplay,No Strong Specialist Tag,Weak at Death,0.0,0.4655470970349933,0.48968734464896446
+KP Appanna,Strike Bowler,0.43441867189842065,High Impact Control,Medium Reliability,Middle,High Impact Control,"Weak at Death, Poor Momentum Control",0.0,0.5584973320033895,0.0
+GB Hogg,Strike Bowler,0.4336299673859661,Low Risk Support,High Reliability,Death,No Strong Specialist Tag,Weak at Death,0.0,0.4688178304455097,0.4724134228864143
+Yuvraj Singh,Strike Bowler,0.4331112362809191,Low Risk Support,High Reliability,Powerplay,No Strong Specialist Tag,Weak at Death,0.0,0.43902451791023356,0.4430777872908432
+Shivam Mavi,Strike Bowler,0.43081436011599067,High Impact Control,High Reliability,Middle,High Impact Control,Weak at Death,0.0,0.4876455009744858,0.44485645619952485
+M Prasidh Krishna,Control Bowler,0.43032498209870784,High Impact Control,High Reliability,Powerplay,High Impact Control,No Major Weakness Tag,0.3771884688073284,0.4014803222070324,0.539795553860582
+KV Sharma,Strike Bowler,0.4302009642486488,Moderate Profile,High Reliability,Powerplay,No Strong Specialist Tag,Weak at Death,0.0,0.45770150024723927,0.5251185105504077
+YA Abdulla,Strike Bowler,0.42872768867731076,High Impact Control,Medium Reliability,Powerplay,High Impact Control,Weak at Death,0.0,0.47162899189097246,0.44988006933818925
+SN Thakur,Control Bowler,0.42753281511738517,Moderate Profile,High Reliability,Middle,No Strong Specialist Tag,No Major Weakness Tag,0.5359105130422622,0.44952218338967453,0.611216324929586
+CRD Fernando,Strike Bowler,0.42558668192669696,Low Risk Support,Medium Reliability,Powerplay,No Strong Specialist Tag,Weak at Death,0.0,0.4727336484720829,0.6183280281506003
+K Gowtham,Strike Bowler,0.4254419535886461,High Impact Control,High Reliability,Death,High Impact Control,Weak at Death,0.0,0.48569232010953983,0.44737600536517735
+BA Bhatt,Strike Bowler,0.4238672484504055,Low Risk Support,Medium Reliability,Powerplay,No Strong Specialist Tag,Weak at Death,0.0,0.4837196211501124,0.5367720935465017
+PVD Chameera,Strike Bowler,0.4236079323932592,Attacking but Expensive,Medium Reliability,Middle,No Strong Specialist Tag,"Weak at Death, Can Be Expensive",0.0,0.46023473467351533,0.32938658363475054
+NM Coulter-Nile,Strike Bowler,0.42326429086575856,High Impact Control,High Reliability,Powerplay,High Impact Control,No Major Weakness Tag,0.31619971658409907,0.4028254369974168,0.4715828932562731
+BA Stokes,Control Bowler,0.42234520263035147,Low Risk Support,High Reliability,Powerplay,No Strong Specialist Tag,No Major Weakness Tag,0.3931330356649216,0.4329494727587567,0.541240398048
+JP Faulkner,Control Bowler,0.4200987864160143,Low Risk Support,High Reliability,Powerplay,No Strong Specialist Tag,No Major Weakness Tag,0.512742847516876,0.46404619391360824,0.5100449414160136
+R Sharma,Strike Bowler,0.41833482790390647,Low Risk Support,High Reliability,Middle,No Strong Specialist Tag,Weak at Death,0.0,0.4602059509137036,0.4150494957359804
+CH Morris,Control Bowler,0.4168205724034659,Low Risk Support,High Reliability,Middle,No Strong Specialist Tag,No Major Weakness Tag,0.532983793529558,0.37434163239585694,0.5217141852863165
+DP Nannes,Control Bowler,0.41635229897998605,High Impact Control,High Reliability,Powerplay,High Impact Control,No Major Weakness Tag,0.44204361122766483,0.4174358814581155,0.5834530248054426
+AD Mascarenhas,Strike Bowler,0.41464816033502383,High Impact Control,Medium Reliability,Middle,High Impact Control,Weak at Death,0.0,0.32635844239625367,0.47190796607033025
+Iqbal Abdulla,Strike Bowler,0.41464230047043565,Low Risk Support,High Reliability,Powerplay,No Strong Specialist Tag,Weak at Death,0.0,0.42959251468035053,0.47024659549127396
+RR Powar,Strike Bowler,0.41346356440300086,Low Risk Support,High Reliability,Powerplay,No Strong Specialist Tag,Weak at Death,0.0,0.3861543277276096,0.5747732271768368
+L Balaji,Control Bowler,0.4131528877924974,Moderate Profile,High Reliability,Powerplay,No Strong Specialist Tag,No Major Weakness Tag,0.3376030348051548,0.4352757676512604,0.45913742705056343
+M Theekshana,Strike Bowler,0.40967404898859,Low Risk Support,High Reliability,Death,No Strong Specialist Tag,Weak at Death,0.0,0.3875243321076752,0.400722158881808
+S Randiv,Strike Bowler,0.40943410997611973,Low Risk Support,Medium Reliability,Middle,No Strong Specialist Tag,Weak at Death,0.0,0.4412101482169779,0.529748594154872
+Noor Ahmad,Strike Bowler,0.40877065768799586,Low Risk Support,High Reliability,Death,No Strong Specialist Tag,Weak at Death,0.0,0.3892085176082901,0.46091960001269683
+G Coetzee,Death Specialist,0.4078759989119319,Attacking but Expensive,Medium Reliability,Death,No Strong Specialist Tag,"Weak at Death, Weak vs Set Batters, Can Be Expensive",0.0,0.286159788172267,0.37678916006687324
+S Aravind,Strike Bowler,0.40733398038097635,High Impact Control,High Reliability,Powerplay,High Impact Control,Weak at Death,0.0,0.42201357764123126,0.3604781539041162
+KK Ahmed,Death Specialist,0.4068518047164974,Moderate Profile,High Reliability,Powerplay,No Strong Specialist Tag,No Major Weakness Tag,0.43499316219192713,0.33770829073932224,0.5097053557655691
+DL Vettori,Strike Bowler,0.40457486174674356,Low Risk Support,High Reliability,Powerplay,No Strong Specialist Tag,No Major Weakness Tag,0.39664220614559853,0.40247825904129747,0.36528915753188906
+JP Duminy,Strike Bowler,0.40399968130772046,Low Risk Support,High Reliability,Middle,No Strong Specialist Tag,Weak at Death,0.0,0.39759206878828507,0.4678986081750988
+YK Pathan,Strike Bowler,0.4021950235831602,Low Risk Support,High Reliability,Powerplay,No Strong Specialist Tag,Weak at Death,0.0,0.39340557771774154,0.3276482068323516
+R Tewatia,Strike Bowler,0.4003505242110634,Low Risk Support,High Reliability,Powerplay,No Strong Specialist Tag,Weak at Death,0.0,0.4287402192589902,0.459749096250392
+KW Richardson,Death Specialist,0.3990303597932648,High Impact Control,Medium Reliability,Middle,High Impact Control,Weak at Death,0.0,0.46060872457443525,0.44399657752763616
+CR Brathwaite,Death Specialist,0.39528301259946724,Low Risk Support,Medium Reliability,Powerplay,No Strong Specialist Tag,Weak at Death,0.0,0.33953740713572583,0.5429098432179723
+V Pratap Singh,Strike Bowler,0.3946064416070178,Low Risk Support,Medium Reliability,Powerplay,No Strong Specialist Tag,Weak at Death,0.0,0.4319478074689864,0.5584850493881622
+C Green,Strike Bowler,0.3945057176135233,Low Risk Support,High Reliability,Death,No Strong Specialist Tag,Weak at Death,0.0,0.46613883369062503,0.35157053960949786
+SB Styris,Strike Bowler,0.3927575428230973,Low Risk Support,Medium Reliability,Middle,No Strong Specialist Tag,"Weak at Death, Poor Momentum Control",0.0,0.4804558373758036,0.0
+Avesh Khan,Control Bowler,0.3918865008109926,Moderate Profile,High Reliability,Middle,No Strong Specialist Tag,No Major Weakness Tag,0.4437206849248874,0.39009871072959107,0.571177503448703
+S Kaul,Control Bowler,0.3910028079703348,Low Risk Support,High Reliability,Middle,No Strong Specialist Tag,No Major Weakness Tag,0.45003778275105233,0.41393468658725585,0.3816745154387527
+Harmeet Singh,Strike Bowler,0.3885465957017876,Low Risk Support,High Reliability,Death,No Strong Specialist Tag,Weak at Death,0.0,0.3262368998413082,0.43020568914554697
+MC Henriques,Strike Bowler,0.38649771700896834,Low Risk Support,High Reliability,Powerplay,No Strong Specialist Tag,Weak at Death,0.0,0.4196012525610676,0.45854501687858507
+Mustafizur Rahman,Control Bowler,0.3854440161379201,Moderate Profile,High Reliability,Powerplay,No Strong Specialist Tag,No Major Weakness Tag,0.43165755327498656,0.4496083373627066,0.49528584184899554
+Mujeeb Ur Rahman,Strike Bowler,0.38538790092295216,High Impact Control,Medium Reliability,Powerplay,High Impact Control,Weak at Death,0.0,0.3649719817564955,0.4859053463725667
+Washington Sundar,Strike Bowler,0.38325620682298034,Low Risk Support,High Reliability,Powerplay,No Strong Specialist Tag,Weak at Death,0.0,0.3626361793011718,0.4651579077741545
+Harpreet Brar,Strike Bowler,0.380754055107422,Low Risk Support,High Reliability,Middle,No Strong Specialist Tag,Weak at Death,0.0,0.42658308716104276,0.4490507188519449
+MJ Santner,Strike Bowler,0.3793953058839866,Low Risk Support,Medium Reliability,Powerplay,No Strong Specialist Tag,Weak at Death,0.0,0.47671462269747045,0.4555242017501021
+S Kaushik,Strike Bowler,0.3785339225631378,Low Risk Support,Medium Reliability,Middle,No Strong Specialist Tag,Weak at Death,0.0,0.3621966638468035,0.36596567430728333
+MA Starc,Death Specialist,0.3768937185073168,Moderate Profile,High Reliability,Middle,No Strong Specialist Tag,No Major Weakness Tag,0.4339169996997036,0.3375115868299014,0.4635395789032533
+S Nadeem,Strike Bowler,0.37179897184884164,Low Risk Support,High Reliability,Middle,No Strong Specialist Tag,Weak at Death,0.0,0.3829110787865337,0.43852103234755613
+Umran Malik,Strike Bowler,0.3716661845834126,Attacking but Expensive,Medium Reliability,Middle,No Strong Specialist Tag,"Weak at Death, Can Be Expensive",0.0,0.4475959263109551,0.4044151195669832
+KA Pollard,Control Bowler,0.3713815669687772,Moderate Profile,High Reliability,Middle,No Strong Specialist Tag,No Major Weakness Tag,0.45202488300100013,0.3940524291652368,0.5305705741908944
+HH Pandya,Control Bowler,0.3707861414178402,Moderate Profile,High Reliability,Middle,No Strong Specialist Tag,No Major Weakness Tag,0.4933768237007562,0.46843590890569126,0.4550969902905843
+BAW Mendis,Strike Bowler,0.3701566586499874,Low Risk Support,Medium Reliability,Powerplay,No Strong Specialist Tag,Weak at Death,0.0,0.439507639807769,0.42194077887250414
+NT Ellis,Strike Bowler,0.36937162719678157,Low Risk Support,High Reliability,Powerplay,No Strong Specialist Tag,Weak at Death,0.0,0.5318152185356008,0.5191624793935468
+TG Southee,Death Specialist,0.3691016271012598,Moderate Profile,High Reliability,Middle,No Strong Specialist Tag,No Major Weakness Tag,0.3108376831335832,0.3742587640046663,0.45740625184641215
+JD Unadkat,Control Bowler,0.3688574005652498,Moderate Profile,High Reliability,Powerplay,No Strong Specialist Tag,No Major Weakness Tag,0.3784007078445193,0.3767973454646837,0.5363738752277701
+SJ Srivastava,Strike Bowler,0.36862127461279365,Moderate Profile,Medium Reliability,Powerplay,No Strong Specialist Tag,Weak at Death,0.0,0.43233182955533317,0.5560288600807258
+Shakib Al Hasan,Death Specialist,0.36856410182620636,Moderate Profile,High Reliability,Middle,No Strong Specialist Tag,Weak at Death,0.16662409753504664,0.4028652159414745,0.484255612859808
+SB Jakati,Strike Bowler,0.368061320885419,Moderate Profile,High Reliability,Powerplay,No Strong Specialist Tag,Weak at Death,0.0,0.4219489700459449,0.4521491727682209
+S Lamichhane,Balanced Support Bowler,0.36358732268922106,Low Risk Support,Medium Reliability,Middle,No Strong Specialist Tag,"Weak at Death, Weak vs Set Batters",0.0,0.0,0.5101199015520106
+R Bhatia,Control Bowler,0.3634757576107026,Moderate Profile,High Reliability,Powerplay,No Strong Specialist Tag,No Major Weakness Tag,0.5429352900621666,0.3938616363629648,0.3558219787657772
+LH Ferguson,Death Specialist,0.3632263024295113,Moderate Profile,High Reliability,Powerplay,No Strong Specialist Tag,Weak at Death,0.2818974739221413,0.42639482116236427,0.4173344709643611
+P Negi,Death Specialist,0.36286074985162764,Moderate Profile,High Reliability,Powerplay,No Strong Specialist Tag,Weak at Death,0.0,0.4005134096803475,0.47758990964770615
+S Badree,Balanced Support Bowler,0.36137666433615184,High Impact Control,Medium Reliability,Middle,High Impact Control,"Weak at Death, Weak vs Set Batters, Poor Momentum Control",0.0,0.0,0.17482517971004094
+CH Gayle,Strike Bowler,0.360835856711435,Low Risk Support,High Reliability,Middle,No Strong Specialist Tag,No Major Weakness Tag,0.46294387700796774,0.38356774626923956,0.35783700360331866
+GJ Maxwell,Strike Bowler,0.3606126001684843,Low Risk Support,High Reliability,Middle,No Strong Specialist Tag,Weak at Death,0.0,0.3853984132200099,0.48651585815332643
+R Dhawan,Strike Bowler,0.35857645210118366,Low Risk Support,High Reliability,Middle,No Strong Specialist Tag,Weak at Death,0.0,0.403741954255571,0.4280756235882628
+DJG Sammy,Death Specialist,0.35754911623853847,Moderate Profile,Medium Reliability,Middle,No Strong Specialist Tag,Weak at Death,0.0,0.37436866605126456,0.344445004768753
+SC Ganguly,Strike Bowler,0.357364679888699,Low Risk Support,Medium Reliability,Powerplay,No Strong Specialist Tag,"Weak at Death, Weak vs Set Batters",0.0,0.2997767544652619,0.5454805451543364
+AG Murtaza,Strike Bowler,0.3560175942458203,Low Risk Support,Medium Reliability,Powerplay,No Strong Specialist Tag,Weak at Death,0.0,0.493548460333652,0.3605509080328283
+SM Pollock,Balanced Support Bowler,0.3555394566962204,High Impact Control,Medium Reliability,Middle,High Impact Control,"Weak at Death, Poor Momentum Control",0.0,0.31603083895686723,0.0
+MS Gony,Strike Bowler,0.3554338810817165,Moderate Profile,High Reliability,Middle,No Strong Specialist Tag,Weak at Death,0.0,0.4244253433805158,0.39849658324592824
+A Ashish Reddy,Death Specialist,0.3548972111005306,Moderate Profile,Medium Reliability,Middle,No Strong Specialist Tag,Weak at Death,0.0,0.4632929231346755,0.4159922473817113
+A Singh,Death Specialist,0.35355710372716637,Moderate Profile,High Reliability,Middle,No Strong Specialist Tag,Weak at Death,0.0,0.36715219177651615,0.4480293528472466
+Pankaj Singh,Strike Bowler,0.35338341453012184,High Impact Control,Medium Reliability,Middle,High Impact Control,Weak at Death,0.0,0.5006489434187167,0.46368350586021756
+AB Agarkar,Strike Bowler,0.3521460875746892,Low Risk Support,High Reliability,Powerplay,No Strong Specialist Tag,Weak at Death,0.2867869054497848,0.41096656453797215,0.37754739612743343
+AM Nayar,Strike Bowler,0.3489970493045545,Low Risk Support,Medium Reliability,Powerplay,No Strong Specialist Tag,Weak at Death,0.0,0.46504035869639726,0.38197094225104106
+DT Christian,Strike Bowler,0.3473919224268798,Moderate Profile,High Reliability,Middle,No Strong Specialist Tag,Weak at Death,0.2157933827744756,0.4319502557306634,0.30053637990334636
+AS Rajpoot,Death Specialist,0.3466317787010001,Attacking but Expensive,High Reliability,Powerplay,No Strong Specialist Tag,"Weak at Death, Can Be Expensive",0.0,0.30885606168896607,0.5105974538000732
+AA Chavan,Strike Bowler,0.33953642366799264,Low Risk Support,Medium Reliability,Powerplay,No Strong Specialist Tag,Weak at Death,0.0,0.46910927579298944,0.43247177392236325
+LR Shukla,Death Specialist,0.33567207171739344,Moderate Profile,Medium Reliability,Death,No Strong Specialist Tag,Weak at Death,0.0,0.4293260651488741,0.4126195228830246
+JL Pattinson,Death Specialist,0.33387993747385913,Moderate Profile,Medium Reliability,Middle,No Strong Specialist Tag,Weak at Death,0.0,0.35080340975486196,0.45338322108231516
+A Symonds,Death Specialist,0.3338351737770905,Moderate Profile,High Reliability,Powerplay,No Strong Specialist Tag,Weak at Death,0.0,0.3715804439097722,0.39473584265143036
+T Natarajan,Death Specialist,0.3336296971675899,Moderate Profile,High Reliability,Middle,No Strong Specialist Tag,No Major Weakness Tag,0.42632504650619557,0.3592097362697273,0.5198379639091183
+Suyash Sharma,Strike Bowler,0.3328044435224424,Moderate Profile,Medium Reliability,Powerplay,No Strong Specialist Tag,Weak at Death,0.0,0.37623982376102066,0.525201916440931
+NLTC Perera,Death Specialist,0.32939526497999894,Moderate Profile,High Reliability,Powerplay,No Strong Specialist Tag,No Major Weakness Tag,0.3043958634112301,0.34018646995622404,0.38274857777938026
+BE Hendricks,Balanced Support Bowler,0.32911218067951964,Moderate Profile,Medium Reliability,Middle,No Strong Specialist Tag,"Weak at Death, Weak vs Set Batters",0.0,0.0,0.4500071701011195
+M Markande,Death Specialist,0.32747108400811176,Moderate Profile,High Reliability,Death,No Strong Specialist Tag,Weak at Death,0.0,0.4029568019240161,0.4147854791177977
+J Theron,Balanced Support Bowler,0.3269551143223546,Low Risk Support,Medium Reliability,Middle,No Strong Specialist Tag,Weak at Death,0.0,0.3093083271034496,0.37885523205942845
+JP Behrendorff,Strike Bowler,0.32642087549724547,Moderate Profile,Medium Reliability,Middle,No Strong Specialist Tag,Weak at Death,0.0,0.4442962109651217,0.41963075899405006
+PWH de Silva,Strike Bowler,0.3261068386349765,Moderate Profile,High Reliability,Death,No Strong Specialist Tag,Weak at Death,0.0,0.39914069716203726,0.4881823613071751
+VRV Singh,Death Specialist,0.32587953079442555,Moderate Profile,Medium Reliability,Middle,No Strong Specialist Tag,Weak at Death,0.0,0.3146354707277424,0.44028428198034986
+JC Archer,Strike Bowler,0.32529498222878395,Moderate Profile,High Reliability,Middle,No Strong Specialist Tag,Weak at Death,0.09876896217366771,0.316948095468448,0.49462114790891176
+Mayank Dagar,Strike Bowler,0.32496472924915154,Low Risk Support,Medium Reliability,Middle,No Strong Specialist Tag,Weak at Death,0.0,0.3964518865359897,0.5118865686238079
+RG Sharma,Balanced Support Bowler,0.3249454306261716,Low Risk Support,High Reliability,Powerplay,No Strong Specialist Tag,Weak at Death,0.0,0.42153778278173415,0.35116309842053395
+TU Deshpande,Death Specialist,0.3236472773979927,Moderate Profile,High Reliability,Death,No Strong Specialist Tag,No Major Weakness Tag,0.4359700287883676,0.4063296808792143,0.42140080621321113
+R McLaren,Strike Bowler,0.32170985750959974,Moderate Profile,Medium Reliability,Death,No Strong Specialist Tag,Weak at Death,0.0,0.34095308282617465,0.4187004259398643
+RP Meredith,Strike Bowler,0.32158024497826254,Moderate Profile,Medium Reliability,Middle,No Strong Specialist Tag,Weak at Death,0.0,0.36699910626503957,0.3694901974162888
+KR Sen,Death Specialist,0.321166481490315,Moderate Profile,Medium Reliability,Powerplay,No Strong Specialist Tag,Weak at Death,0.0,0.42103197884871163,0.3219595521513667
+Harshit Rana,Death Specialist,0.31860373009497106,Attacking but Expensive,High Reliability,Powerplay,No Strong Specialist Tag,"Weak at Death, Can Be Expensive",0.0,0.33834389320904,0.6342438710318343
+JO Holder,Death Specialist,0.31776235489352705,Moderate Profile,High Reliability,Powerplay,No Strong Specialist Tag,Weak at Death,0.25539283510608474,0.34588921218053015,0.35466664588688246
+AD Russell,Death Specialist,0.3151813937163257,Moderate Profile,High Reliability,Powerplay,No Strong Specialist Tag,No Major Weakness Tag,0.43214687733915086,0.4328323065189899,0.5105543519273892
+Basil Thampi,Balanced Support Bowler,0.3141395581801944,Moderate Profile,High Reliability,Middle,No Strong Specialist Tag,"Weak at Death, Poor Momentum Control",0.2987275830214872,0.3339403413391519,0.2741044950954245
+PJ Sangwan,Strike Bowler,0.31359628434214,Moderate Profile,High Reliability,Middle,No Strong Specialist Tag,Weak at Death,0.0,0.3953213018340283,0.4345838817912383
+FH Edwards,Balanced Support Bowler,0.3106197969318734,Moderate Profile,Medium Reliability,Powerplay,No Strong Specialist Tag,"Weak at Death, Weak vs Set Batters, Poor Momentum Control",0.0,0.2202046859447154,0.27127192048520604
+AD Mathews,Balanced Support Bowler,0.31004678130476643,Moderate Profile,High Reliability,Middle,No Strong Specialist Tag,No Major Weakness Tag,0.38378967661197744,0.39699117495073977,0.42365929781686507
+STR Binny,Balanced Support Bowler,0.3044075693240139,Low Risk Support,High Reliability,Powerplay,No Strong Specialist Tag,Weak at Death,0.0,0.3312090995434905,0.4814322537812241
+S Tyagi,Balanced Support Bowler,0.3027088217614398,Moderate Profile,Medium Reliability,Powerplay,No Strong Specialist Tag,"Weak at Death, Weak vs Set Batters",0.0,0.11085993415589566,0.39552834891088295
+Vijaykumar Vyshak,Death Specialist,0.29637222903579963,Moderate Profile,Medium Reliability,Death,No Strong Specialist Tag,Weak at Death,0.0,0.32298892321312345,0.6446838408485902
+BB Sran,Balanced Support Bowler,0.29596656993437126,Moderate Profile,High Reliability,Powerplay,No Strong Specialist Tag,Weak at Death,0.0,0.3175476345501943,0.4057066058307357
+A Zampa,Balanced Support Bowler,0.29051491279454794,Moderate Profile,Medium Reliability,Powerplay,No Strong Specialist Tag,Weak at Death,0.0,0.3140564817924306,0.35986021094325865
+I Udana,Balanced Support Bowler,0.2900668435995964,Moderate Profile,Medium Reliability,Death,No Strong Specialist Tag,"Weak at Death, Weak vs Set Batters, Poor Momentum Control",0.0,0.2753445520046867,0.0
+C Sakariya,Balanced Support Bowler,0.2898120597283114,Low Risk Support,Medium Reliability,Powerplay,No Strong Specialist Tag,Weak at Death,0.0,0.32040791757627163,0.36086521498481483
+Anureet Singh,Death Specialist,0.28790586257451883,Moderate Profile,Medium Reliability,Powerplay,No Strong Specialist Tag,Weak at Death,0.0,0.32826529170744234,0.3495702911051442
+SM Curran,Death Specialist,0.28769797229371635,Moderate Profile,High Reliability,Powerplay,No Strong Specialist Tag,No Major Weakness Tag,0.4067738905850874,0.3231348706375239,0.43384376886748566
+LS Livingstone,Balanced Support Bowler,0.2876186085855574,Moderate Profile,Medium Reliability,Powerplay,No Strong Specialist Tag,Weak at Death,0.0,0.3607674389698561,0.38060858149308374
+VR Aaron,Balanced Support Bowler,0.28300440784100944,Moderate Profile,High Reliability,Middle,No Strong Specialist Tag,Weak at Death,0.14808083741506134,0.3681729738390252,0.4577304008169425
+Shahbaz Ahmed,Death Specialist,0.2814389503504817,Moderate Profile,High Reliability,Death,No Strong Specialist Tag,Weak at Death,0.0,0.30544913218054653,0.4624950052027343
+S Sreesanth,Balanced Support Bowler,0.2807351391258564,Moderate Profile,High Reliability,Powerplay,No Strong Specialist Tag,"Weak at Death, Weak vs Set Batters",0.0,0.2791206617084851,0.36489809354395586
+VG Arora,Balanced Support Bowler,0.2807245510032604,Moderate Profile,High Reliability,Powerplay,No Strong Specialist Tag,"Weak at Death, Weak vs Set Batters",0.0,0.21203369694568536,0.39130484492523687
+Yash Thakur,Death Specialist,0.2744948754168227,Moderate Profile,High Reliability,Death,No Strong Specialist Tag,Weak vs Set Batters,0.5390915716724285,0.27671479003553134,0.4603613502061395
+KL Nagarkoti,Balanced Support Bowler,0.27183551375295684,Moderate Profile,Medium Reliability,Death,No Strong Specialist Tag,Weak at Death,0.0,0.304156828151189,0.41965134110359636
+MP Stoinis,Death Specialist,0.26822164365963047,Moderate Profile,High Reliability,Powerplay,No Strong Specialist Tag,Weak at Death,0.17595042707140848,0.4269413988196275,0.45886450456785216
+DJ Hooda,Balanced Support Bowler,0.267233629595335,Moderate Profile,Medium Reliability,Middle,No Strong Specialist Tag,"Weak at Death, Poor Momentum Control",0.0,0.32201971584512046,0.2633438086581064
+Anand Rajan,Death Specialist,0.266409581397845,Moderate Profile,Medium Reliability,Middle,No Strong Specialist Tag,"Weak at Death, Weak vs Set Batters",0.0,0.29875531051313403,0.5394533133806947
+P Awana,Death Specialist,0.2652532788955453,Moderate Profile,High Reliability,Middle,No Strong Specialist Tag,"Weak at Death, Weak vs Set Batters",0.2650300828115589,0.2666735341132781,0.3811915171643666
+Kartik Tyagi,Balanced Support Bowler,0.2640078035798785,Moderate Profile,Medium Reliability,Death,No Strong Specialist Tag,"Weak at Death, Weak vs Set Batters",0.0,0.24643733033345544,0.33130304119957943
+Abhishek Sharma,Balanced Support Bowler,0.26377843100494114,Moderate Profile,Medium Reliability,Middle,No Strong Specialist Tag,"Weak at Death, Weak vs Set Batters",0.0,0.29650527500992485,0.3822384763341433
+JR Hopes,Balanced Support Bowler,0.2629628487409085,Moderate Profile,Medium Reliability,Powerplay,No Strong Specialist Tag,"Weak at Death, Weak vs Set Batters",0.0,0.27882382886236357,0.4956925966354016
+Bipul Sharma,Balanced Support Bowler,0.2624282907868009,Moderate Profile,Medium Reliability,Middle,No Strong Specialist Tag,Weak at Death,0.0,0.336067893099632,0.38970096728181175
+Mukesh Choudhary,Balanced Support Bowler,0.2605155755062461,Moderate Profile,High Reliability,Middle,No Strong Specialist Tag,"Weak at Death, Weak vs Set Batters",0.0,0.22746209917777,0.324686068484284
+Mukesh Kumar,Death Specialist,0.26009293225932906,Moderate Profile,Medium Reliability,Powerplay,No Strong Specialist Tag,Weak at Death,0.265160908178765,0.39299059009361276,0.4993782433103266
+AJ Tye,Death Specialist,0.25602349929341967,Moderate Profile,High Reliability,Middle,No Strong Specialist Tag,Weak at Death,0.2027772108392112,0.39388788590508306,0.4566336943038372
+Mohammad Nabi,Balanced Support Bowler,0.25366035096689676,Moderate Profile,High Reliability,Powerplay,No Strong Specialist Tag,"Weak at Death, Weak vs Set Batters",0.0,0.2708916795682542,0.428142511215532
+PV Tambe,Balanced Support Bowler,0.25078302031670846,Low Risk Support,High Reliability,Middle,No Strong Specialist Tag,Weak at Death,0.0,0.3793668013552196,0.4318155674364491
+Naveen-ul-Haq,Death Specialist,0.24485388377588954,Moderate Profile,High Reliability,Middle,No Strong Specialist Tag,Weak vs Set Batters,0.3218316180066778,0.24738660000305557,0.5651350582289819
+Yash Dayal,Death Specialist,0.24165128974249322,Moderate Profile,High Reliability,Middle,No Strong Specialist Tag,Weak at Death,0.0,0.3218610583843642,0.4706097679642038
+BCJ Cutting,Balanced Support Bowler,0.24080586927198838,Moderate Profile,Medium Reliability,Middle,No Strong Specialist Tag,"Weak at Death, Poor Momentum Control",0.0,0.3516623595470842,0.29816498303973105
+A Mithun,Balanced Support Bowler,0.23852651522759158,Moderate Profile,Medium Reliability,Powerplay,No Strong Specialist Tag,Weak at Death,0.0,0.31767112839986034,0.315142680175115
+D Wiese,Balanced Support Bowler,0.23686873669440556,Moderate Profile,Medium Reliability,Powerplay,No Strong Specialist Tag,"Weak at Death, Weak vs Set Batters, Poor Momentum Control",0.0,0.21613915453855234,0.2640810929077477
+OC McCoy,Balanced Support Bowler,0.23437756314463207,Moderate Profile,Medium Reliability,Powerplay,No Strong Specialist Tag,"Weak at Death, Weak vs Set Batters",0.0,0.23091171096529647,0.38216287120285763
+DR Sams,Balanced Support Bowler,0.23241806963584222,Moderate Profile,Medium Reliability,Powerplay,No Strong Specialist Tag,"Weak at Death, Weak vs Set Batters, Poor Momentum Control",0.0,0.16862319889532038,0.20196369950935414
+JD Ryder,Balanced Support Bowler,0.23120094211637143,Moderate Profile,Medium Reliability,Powerplay,No Strong Specialist Tag,"Weak at Death, Poor Momentum Control",0.0,0.3456643069738556,0.28752673134340695
+MR Marsh,Balanced Support Bowler,0.2298802255598129,Moderate Profile,Medium Reliability,Powerplay,No Strong Specialist Tag,Weak at Death,0.0,0.37618225071409706,0.3461645627413587
+Joginder Sharma,Balanced Support Bowler,0.218115766541907,Moderate Profile,Medium Reliability,Middle,No Strong Specialist Tag,"Weak at Death, Weak vs Set Batters",0.0,0.29471379597544006,0.38591553118512356
+AN Ahmed,Balanced Support Bowler,0.2112524562750512,Moderate Profile,Medium Reliability,Powerplay,No Strong Specialist Tag,Weak at Death,0.0,0.34924138743608285,0.30519536569432065
+VY Mahesh,Balanced Support Bowler,0.21045062555465233,Moderate Profile,Medium Reliability,Death,No Strong Specialist Tag,"Weak at Death, Weak vs Set Batters, Poor Momentum Control",0.0,0.2130283876347749,0.1972496854976467
+Rasikh Salam,Balanced Support Bowler,0.21039568234785005,Moderate Profile,Medium Reliability,Death,No Strong Specialist Tag,Weak at Death,0.0,0.31713183887346813,0.3872142924079893
+CJ Jordan,Balanced Support Bowler,0.19878177490370436,Moderate Profile,High Reliability,Middle,No Strong Specialist Tag,"Weak at Death, Weak vs Set Batters, Poor Momentum Control",0.20809945792363255,0.29388282735812365,0.2843445877029825
+LE Plunkett,Balanced Support Bowler,0.19383396077667767,Moderate Profile,Medium Reliability,Death,No Strong Specialist Tag,"Weak at Death, Weak vs Set Batters",0.0,0.2905836822816786,0.3729629028412194
+J Suchith,Balanced Support Bowler,0.193777202016856,Moderate Profile,Medium Reliability,Middle,No Strong Specialist Tag,"Weak at Death, Weak vs Set Batters",0.0,0.2908155024049053,0.4533133703515701
+AF Milne,Balanced Support Bowler,0.18392761142716912,Moderate Profile,Medium Reliability,Death,No Strong Specialist Tag,"Weak at Death, Weak vs Set Batters, Poor Momentum Control",0.0,0.2436358611353596,0.28118752257032736
+JDP Oram,Balanced Support Bowler,0.18358057283883514,Moderate Profile,Medium Reliability,Death,No Strong Specialist Tag,"Weak at Death, Weak vs Set Batters",0.0,0.27544532045983483,0.30589217099992816
+AS Joseph,Balanced Support Bowler,0.1707154589671488,Moderate Profile,Medium Reliability,Powerplay,No Strong Specialist Tag,"Weak at Death, Weak vs Set Batters",0.0,0.241093585321447,0.3179175965782279
+Swapnil Singh,Balanced Support Bowler,0.14454394076432714,Moderate Profile,Medium Reliability,Middle,No Strong Specialist Tag,"Weak at Death, Weak vs Set Batters",0.0,0.1835994743313971,0.3456063709461817
+DR Smith,Balanced Support Bowler,0.12187656254295358,Moderate Profile,High Reliability,Middle,No Strong Specialist Tag,"Weak at Death, Poor Momentum Control",0.0,0.3057348655531383,0.2782480884677044
+R Sathish,Balanced Support Bowler,0.12132143779819532,Moderate Profile,Medium Reliability,Powerplay,No Strong Specialist Tag,"Weak at Death, Weak vs Set Batters, Poor Momentum Control",0.0,0.2719871158927046,0.13109744697122103
+ST Jayasuriya,Balanced Support Bowler,0.10130229964101449,Moderate Profile,High Reliability,Middle,No Strong Specialist Tag,"Weak at Death, Weak vs Set Batters",0.0,0.22442380474768076,0.4447197126586718
+TK Curran,Balanced Support Bowler,0.09677919191634939,Moderate Profile,Medium Reliability,Middle,No Strong Specialist Tag,"Weak at Death, Weak vs Set Batters",0.0,0.23093937736183184,0.35096504038729154
+M Jansen,Balanced Support Bowler,0.0834835496989245,Moderate Profile,Medium Reliability,Middle,No Strong Specialist Tag,"Weak at Death, Weak vs Set Batters, Poor Momentum Control",0.0,0.22192511141288132,0.29287983256903793
+CJ Anderson,Balanced Support Bowler,0.08219095126011658,Moderate Profile,Medium Reliability,Middle,No Strong Specialist Tag,"Weak at Death, Weak vs Set Batters, Poor Momentum Control",0.0,0.2586202292721771,0.2835848806445689
